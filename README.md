@@ -7,3 +7,5 @@ First we had install Nodejs. Then from its command prompt we opened our db.json 
 json-server --watch db.json
 
 Then we used urls to implement our APIs. Different Tables are stored in db.json files in JSON format.
+
+for writing the code we simply used netbeans. Our code is in JAVA.
